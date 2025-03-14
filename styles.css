@@ -1,0 +1,40 @@
+
+      body {
+        text-align:center;
+      }
+      .btn {
+        height:200px;
+        width:200px;
+        border-radius:20%;
+        margin: 2rem;
+      }
+      .btn-container {
+        display: flex;
+        justify-content: center;
+      }
+      .red{
+        background-color: rgb(243, 174, 234);
+        border:10px solid rgb(244, 133, 212);
+      }
+      .green{
+        background-color: rgb(153, 251, 153);
+        border:10px solid rgb(125, 244, 78);
+      }
+      .yellow{
+        background-color:rgb(249, 249, 100);
+        border:10px solid rgb(250, 239, 80);
+      }
+      .purple{
+        background-color: rgb(248, 146, 248);
+        border:10px solid rgb(171, 85, 145);
+      }
+      .flash{
+        background-color: white;
+      }
+      .userFlash{
+        background-color: rgb(144, 247, 247);
+      }
+      .bg{
+        background-color: red;
+      }
+    
